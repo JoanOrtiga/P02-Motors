@@ -2432,3 +2432,158 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Fishing UI
 [2021.03.06-17.24.27:736][651]LogSavePackage: Moving 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/ThirdPersonCharacter_Auto16610BEEE4D99FA0DF7BDA0B3399D1CEE.tmp' to 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
 [2021.03.06-17.24.27:737][651]LogFileHelpers: Auto-saving content packages took 0.069
 [2021.03.06-17.24.47:058][709]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-18.13.40:272][850]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.06-18.13.40:284][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.06-18.13.40:284][850]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 6, 2021, 8:13:40 PM)
+[2021.03.06-18.13.40:284][850]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.06-18.13.40:298][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013002s)
+[2021.03.06-18.13.40:300][850]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.06-18.13.40:300][850]LogPlayLevel: PIE: World Init took: (0.002502s)
+[2021.03.06-18.13.40:300][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015752s)
+[2021.03.06-18.13.40:335][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.03.06-18.13.40:338][850]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.03.06-18.13.40:338][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.06-18.13.40:338][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.06-18.13.40:338][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.06-18.13.40:338][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.06-18.13.40:338][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.06-18.13.40:338][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.06-18.13.40:338][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.06-18.13.40:338][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.06-18.13.40:339][850]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.06-18.13.40:339][850]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 1: FrontRight
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 4: BackLeft
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 5: BackRight
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 6: SideLeft
+[2021.03.06-18.13.40:345][850]LogAudioMixer: Display: 7: SideRight
+[2021.03.06-18.13.40:609][850]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (CORSAIR HS70 Wireless Gaming Headset)
+[2021.03.06-18.13.40:609][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.06-18.13.40:609][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.06-18.13.40:609][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.06-18.13.40:609][850]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.06-18.13.40:609][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.06-18.13.40:609][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.06-18.13.40:623][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.06-18.13.40:624][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.06-18.13.40:624][850]LogInit: FAudioDevice initialized.
+[2021.03.06-18.13.40:624][850]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2021.03.06-18.13.40:649][850]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-18.13.40:653][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-18.13.40:653][850]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.06-18.13.40:656][850]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.06-19.13.40
+[2021.03.06-18.13.40:656][850]LogWorld: Bringing up level for play took: 0.002026
+[2021.03.06-18.13.40:656][850]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.03.06-18.13.40:661][850]PIE: Server logged in
+[2021.03.06-18.13.40:664][850]PIE: Play in editor total start time 0.381 seconds.
+[2021.03.06-18.16.16:602][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-18.16.16:602][762]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.06-18.16.16:603][762]LogSlate: Window 'JocDePesca_Motors Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.03.06-18.16.16:611][762]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.06-18.16.16:612][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-18.16.16:641][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.06-18.16.16:697][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-18.16.16:723][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.06-18.16.16:724][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.06-18.16.16:747][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.03.06-18.16.16:827][763]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.06-18.19.04:209][875]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-18.19.04:268][875]LogSavePackage: Moving 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/ThirdPersonCharacterD2762B2A4BDBBA5EFB1683944C218BB2.tmp' to 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.06-18.19.04:286][875]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.06-18.19.04:286][875]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.06-18.19.15:946][ 62]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-18.19.15:962][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FishingAssets/UI/fishingUI" FILE="F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/UI/fishingUI.uasset" SILENT=true
+[2021.03.06-18.19.16:012][ 62]LogSavePackage: Moving 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/fishingUI400F3B4E4AF76443F0E0578842A268C1.tmp' to 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/UI/fishingUI.uasset'
+[2021.03.06-18.19.16:026][ 62]AssetCheck: New page: Asset Save: fishingUI
+[2021.03.06-18.19.16:026][ 62]LogContentValidation: Display: Validating WidgetBlueprint /Game/FishingAssets/UI/fishingUI.fishingUI
+[2021.03.06-18.43.38:296][510]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{236b017e-2c97-417a-811c-ceb9575c0d05}.
+[2021.03.06-18.43.38:296][510]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.06-18.43.38:331][510]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.06-18.43.38:331][510]LogAudioMixer: Display: 1: FrontRight
+[2021.03.06-18.44.36:780][213]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-18.44.36:797][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FishingAssets/UI/fishingUI" FILE="F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/UI/fishingUI.uasset" SILENT=true
+[2021.03.06-18.44.36:853][213]LogSavePackage: Moving 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/fishingUI6F91DBBB42777921554A198489EEF104.tmp' to 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/UI/fishingUI.uasset'
+[2021.03.06-18.44.36:878][213]AssetCheck: New page: Asset Save: fishingUI
+[2021.03.06-18.44.36:878][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/FishingAssets/UI/fishingUI.fishingUI
+[2021.03.06-18.44.37:876][325]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.06-18.44.37:893][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.06-18.44.37:893][325]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 6, 2021, 8:44:37 PM)
+[2021.03.06-18.44.37:893][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.06-18.44.37:904][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011179s)
+[2021.03.06-18.44.37:905][325]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.06-18.44.37:906][325]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2021.03.06-18.44.37:906][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012862s)
+[2021.03.06-18.44.37:945][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.03.06-18.44.37:948][325]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.03.06-18.44.37:948][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.06-18.44.37:949][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.06-18.44.37:949][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.06-18.44.37:949][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.06-18.44.37:949][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.06-18.44.37:949][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.06-18.44.37:949][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.06-18.44.37:949][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.06-18.44.37:949][325]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.06-18.44.37:949][325]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.06-18.44.37:956][325]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.06-18.44.37:956][325]LogAudioMixer: Display: 1: FrontRight
+[2021.03.06-18.44.37:974][325]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.03.06-18.44.37:974][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.06-18.44.37:974][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.06-18.44.37:975][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.06-18.44.37:975][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.06-18.44.37:975][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.06-18.44.37:975][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.06-18.44.37:990][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.06-18.44.37:990][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.06-18.44.37:990][325]LogInit: FAudioDevice initialized.
+[2021.03.06-18.44.37:990][325]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2021.03.06-18.44.38:016][325]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-18.44.38:020][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-18.44.38:020][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.06-18.44.38:023][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.06-19.44.38
+[2021.03.06-18.44.38:024][325]LogWorld: Bringing up level for play took: 0.002752
+[2021.03.06-18.44.38:024][325]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.03.06-18.44.38:031][325]PIE: Server logged in
+[2021.03.06-18.44.38:034][325]PIE: Play in editor total start time 0.142 seconds.
+[2021.03.06-18.44.40:274][452]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:128).
+[2021.03.06-18.44.49:242][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-18.44.49:242][430]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.06-18.44.49:243][430]LogSlate: Window 'JocDePesca_Motors Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.03.06-18.44.49:249][430]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.06-18.44.49:249][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-18.44.49:275][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.06-18.44.49:326][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-18.44.49:353][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.06-18.44.49:354][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.06-18.44.49:355][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.06-18.44.49:381][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.03.06-18.44.49:422][431]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.03.06-18.45.00:737][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.03.06-18.45.00:764][481]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-18.45.01:885][481]LogSlate: Window 'Save Content' being destroyed
+[2021.03.06-19.43.53:800][179]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.54:000][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.54:020][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.54:037][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.54:766][251]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.55:433][309]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.55:797][327]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.55:816][327]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.55:995][340]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.56:894][411]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-19.43.56:911][411]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-20.19.33:381][580]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-20.19.33:383][580]AssetReimport: New page: Outstanding source content changes 10:19:33 PM
+[2021.03.06-20.19.33:383][580]LogEditorFactories: Performing atomic reimport of [F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/Art/fish.png]
+[2021.03.06-20.19.33:384][580]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/Art/fish.png)
+[2021.03.06-20.19.33:411][580]LogEditorFactories: -- imported successfully
+[2021.03.06-20.19.33:454][581]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-20.19.33:506][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FishingAssets/Art/fish" FILE="F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/Art/fish.uasset" SILENT=true
+[2021.03.06-20.19.33:517][581]LogSavePackage: Moving 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/fishF12C8E3D496C729F52487BB7DEB9E7A0.tmp' to 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/Art/fish.uasset'
+[2021.03.06-20.19.33:604][582]AssetCheck: New page: Asset Save: fish
+[2021.03.06-20.19.33:604][582]LogContentValidation: Display: Validating Texture2D /Game/FishingAssets/Art/fish.fish
+[2021.03.06-20.19.36:557][824]AssetReimport: Reimported asset fish from F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Content/FishingAssets/Art/fish.png.
