@@ -806,3 +806,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.06-16.37.42:293][545]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
 [2021.03.06-16.37.43:092][574]LogSlate: Window 'FishingMontage' being destroyed
 [2021.03.06-16.37.44:405][641]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.06-16.48.00:398][630]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-16.48.09:476][657]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-16.48.09:521][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.03.06-16.48.09:573][657]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/ThirdPersonExampleMap_Auto1DAF7ADC448980F876E25779C8E67744B.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.03.06-16.48.09:576][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.065
+[2021.03.06-16.48.09:576][657]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
