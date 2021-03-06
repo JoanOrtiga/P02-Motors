@@ -2418,3 +2418,5 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Fishing UI
 [2021.03.06-17.23.08:857][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
 [2021.03.06-17.23.28:683][ 91]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
 [2021.03.06-17.23.28:894][ 91]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.06-17.23.42:718][350]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.06-17.23.42:861][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
