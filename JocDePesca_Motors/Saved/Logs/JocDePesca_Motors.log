@@ -2431,3 +2431,4 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Fishing UI
 [2021.03.06-17.24.27:689][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
 [2021.03.06-17.24.27:736][651]LogSavePackage: Moving 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/ThirdPersonCharacter_Auto16610BEEE4D99FA0DF7BDA0B3399D1CEE.tmp' to 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
 [2021.03.06-17.24.27:737][651]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.03.06-17.24.47:058][709]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
