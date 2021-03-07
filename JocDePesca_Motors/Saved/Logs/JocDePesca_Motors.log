@@ -1125,3 +1125,290 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.07-01.05.57:545][145]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/ThirdPersonExampleMap1B7B2B5B41199038029148B4AC76662B.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.03.07-01.05.57:722][145]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.03.07-01.05.57:722][145]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.07-01.08.37:934][623]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.08.49:530][ 92]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.08.50:328][136]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.08.50:352][136]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.08.52:763][270]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.08.53:852][270]LogSlate: Window 'Nivel nuevo' being destroyed
+[2021.03.07-01.08.53:881][270]LightingResults: New page: Diseñar la iluminación
+[2021.03.07-01.08.53:952][270]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.08.53:952][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.07-01.08.53:953][270]MapCheck: New page: Revisión del mapa
+[2021.03.07-01.08.53:953][270]LightingResults: New page: Diseñar la iluminación
+[2021.03.07-01.08.53:981][270]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.07-01.08.54:003][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.03.07-01.08.54:038][270]LogAIModule: Creating AISystem for world Untitled
+[2021.03.07-01.08.54:039][270]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.07-01.08.54:044][270]LoadErrors: New page: Mapa nuevo
+[2021.03.07-01.09.02:422][337]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.09.20:772][337]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.09.24:000][337]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.09.35:284][337]LogSlate: Window 'Guardar nivel como' being destroyed
+[2021.03.07-01.09.35:423][337]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.09.35:554][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.03.07-01.09.35:565][337]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/MainMenu852A0CBD4E0736CE59A61BB50BFB423F.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/Maps/MainMenu.umap'
+[2021.03.07-01.09.35:614][337]LogFileHelpers: Saving map 'MainMenu' took 0.299
+[2021.03.07-01.09.35:627][337]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.07-01.09.35:627][337]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.03.07-01.10.02:867][226]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.10.03:459][256]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.10.05:294][364]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2021.03.07-01.10.05:312][364]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2021.03.07-01.10.08:150][535]LogContentBrowser: Attempting asset rename: Carpeta nueva -> BluePrints
+[2021.03.07-01.10.08:151][535]LogContentBrowser: End creating deferred item Carpeta nueva
+[2021.03.07-01.10.29:261][726]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.10.29:838][745]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.10.31:410][833]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.03.07-01.10.31:426][833]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.03.07-01.10.34:196][  0]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2021.03.07-01.10.34:394][  0]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.03.07-01.10.44:768][ 82]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.10.46:726][199]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.10.46:877][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.03.07-01.10.46:913][199]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/MainMenuD6790C104157C48C9DE1B88C037712AB.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/Maps/MainMenu.umap'
+[2021.03.07-01.10.46:967][199]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.07-01.10.46:967][199]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.03.07-01.20.05:789][131]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.20.05:823][131]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/MainMenu.MainMenu
+[2021.03.07-01.22.16:258][637]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.22.27:634][190]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.22.34:882][613]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.23.27:734][301]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.23.53:533][609]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.24.25:872][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.25.28:171][312]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.26.00:316][641]LogEditorTransaction: Undo Resize Widget
+[2021.03.07-01.26.00:563][641]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.07-01.26.00:576][641]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.26.01:195][667]LogEditorTransaction: Undo Resize Widget
+[2021.03.07-01.26.01:425][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.07-01.26.02:369][719]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.03.07-01.26.02:548][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.07-01.26.13:029][993]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.26.42:458][361]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.26.48:964][488]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.26.51:214][608]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.27.16:986][270]LogEditorTransaction: Undo Resize Widget
+[2021.03.07-01.27.17:172][270]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.07-01.27.17:184][270]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.27.17:786][297]LogEditorTransaction: Undo Resize Widget
+[2021.03.07-01.27.17:976][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.07-01.27.22:604][565]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.27.24:900][700]LogEditorTransaction: Undo Changed Anchors
+[2021.03.07-01.27.25:099][700]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.07-01.27.25:114][700]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.27.27:014][801]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.27.28:610][893]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.27.38:373][255]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.27.56:906][488]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.28.08:421][845]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.28.22:579][147]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.28.29:280][285]LogSlate: Took 0.114573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.07-01.28.29:284][285]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.30.21:157][286]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.30.35:542][113]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.30.54:290][184]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.30.54:308][184]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.03.07-01.30.54:346][184]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.30.59:766][500]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.03.07-01.31.09:919][552]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.31.19:687][119]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.31.29:352][693]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.03.07-01.31.46:537][ 87]BlueprintLog: New page: Compilar MainMenu
+[2021.03.07-01.31.46:780][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2021.03.07-01.31.47:319][111]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.31.47:353][111]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/MainMenuE8CE20564D3400B32F93869926DB1D5A.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/BluePrints/MainMenu.uasset'
+[2021.03.07-01.31.47:374][111]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.07-01.31.47:374][111]LogContentValidation: Display: Validating WidgetBlueprint /Game/BluePrints/MainMenu.MainMenu
+[2021.03.07-01.40.00:944][393]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.40.10:023][420]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.40.10:136][420]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2021.03.07-01.40.10:151][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.093
+[2021.03.07-01.40.10:152][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/MainMenu] ([1] browsable assets)...
+[2021.03.07-01.40.10:152][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/MainMenu]
+[2021.03.07-01.40.10:225][420]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/MainMenu_Auto65A4C91B048C3E6B25523EEBCAE7B3E3C.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Autosaves/Game/BluePrints/MainMenu_Auto6.uasset'
+[2021.03.07-01.40.10:227][420]LogFileHelpers: Auto-saving content packages took 0.076
+[2021.03.07-01.41.33:887][812]BlueprintLog: New page: Compilar MainMenu
+[2021.03.07-01.41.33:937][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.03.07-01.41.35:126][872]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.41.35:161][872]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/MainMenu5E73931A4B6D065E966920AD67D49EFB.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/BluePrints/MainMenu.uasset'
+[2021.03.07-01.41.35:185][872]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.07-01.41.35:185][872]LogContentValidation: Display: Validating WidgetBlueprint /Game/BluePrints/MainMenu.MainMenu
+[2021.03.07-01.41.36:666][945]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.03.07-01.41.36:705][945]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.41.38:022][945]LogSlate: Window 'Guardar contenido' being destroyed
+[2021.03.07-01.41.38:048][945]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.07-01.41.38:143][945]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/FishingRodBP9CC8C62A4D417B78E8D11DA5CD780485.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/Meshes/FishingRodBP.uasset'
+[2021.03.07-01.41.38:255][945]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/SK_MannequinAA00215746DDBA6EB589A189F8838CC2.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2021.03.07-01.41.38:269][945]LogSavePackage: Moving '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/UE4_Mannequin_Skeleton233D38B94F4CDD5922A47C88FFA2C750.tmp' to '../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.03.07-01.41.38:809][945]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.38:810][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.07-01.41.39:048][945]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.39:048][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.07-01.41.39:264][945]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.39:264][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.07-01.41.39:482][945]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.07-01.41.39:482][945]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.39:482][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.07-01.41.39:757][945]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.39:757][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.07-01.41.39:775][945]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.39:775][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.07-01.41.39:960][945]LogSlate: Window 'JocDePesca_Motors - Unreal Editor' being destroyed
+[2021.03.07-01.41.39:965][945]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.07-01.41.40:339][945]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.07-01.41.40:340][945]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.03.07-01.41.40:340][945]LogContentValidation: Display: Validating SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.03.07-01.41.40:340][945]LogContentValidation: Display: Validating Blueprint /Game/Meshes/FishingRodBP.FishingRodBP
+[2021.03.07-01.41.40:345][946]Cmd: QUIT_EDITOR
+[2021.03.07-01.41.40:345][946]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.03.07-01.41.40:400][946]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.07-01.41.40:867][946]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.03.07-01.41.40:867][946]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.03.07-01.41.40:867][946]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2021.03.07-01.41.40:867][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.07-01.41.40:869][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.07-01.41.40:968][946]LogAudio: Display: Audio Device Manager Shutdown
+[2021.03.07-01.41.41:104][946]LogExit: Preparing to exit.
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95DF00] Windows
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95E000] Default__DeviceProfile
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F6400] WindowsNoEditor
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95D000] WindowsServer
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F7200] WindowsClient
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95C200] IOS
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F7D00] iPadAir
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95E800] iPadAir2
+[2021.03.07-01.41.42:011][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56A00] IPadPro
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56B00] iPadAir3
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F6C00] iPadAir4
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56500] iPadMini2
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F4300] iPadMini3
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54C00] iPadMini4
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F7400] iPadMini5
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DE300] iPhone6
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DE400] iPodTouch6
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55900] iPhone7
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55800] iPodTouch7
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DFC00] iPhone5S
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57900] iPhone6Plus
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DCE00] iPhone6S
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56F00] iPhone6SPlus
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DF500] iPhone7Plus
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57100] iPhoneSE
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DF300] iPhone8
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54300] iPhone8Plus
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DFF00] iPhoneX
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57D00] iPhoneXS
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DC600] iPhoneXSMax
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57F00] iPhoneXR
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DE900] iPhone11
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55400] iPhone11Pro
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DD400] iPhone11ProMax
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54700] iPhoneSE2
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DD900] iPhone12Mini
+[2021.03.07-01.41.42:012][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54B00] iPhone12
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DC500] iPhone12Pro
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57B00] iPhone12ProMax
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DF900] iPadPro105
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54D00] iPadPro129
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DF700] iPadPro97
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57700] iPadPro2_129
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DE700] iPad5
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57500] iPad6
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95C500] iPad7
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57400] iPad8
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95EF00] iPadPro11
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55300] iPadPro2_11
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95EB00] iPadPro3_129
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55700] iPadPro4_129
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95DE00] AppleTV
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54500] AppleTV4K
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95F300] TVOS
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56100] Mac
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95E600] MacClient
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55F00] MacNoEditor
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95D300] MacServer
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54400] Linux
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95CE00] LinuxNoEditor
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56200] LinuxAArch64NoEditor
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95D600] LinuxClient
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57E00] LinuxAArch64Client
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95CB00] LinuxServer
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55200] LinuxAArch64Server
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95D900] Android
+[2021.03.07-01.41.42:013][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57000] Android_Low
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95C800] Android_Mid
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56C00] Android_High
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95C400] Android_Default
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54100] Android_Adreno4xx
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95CC00] Android_Adreno5xx_Low
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55000] Android_Adreno5xx
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95CA00] Android_Adreno6xx
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57300] Android_Adreno6xx_Vulkan
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95DD00] Android_Mali_T6xx
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC57C00] Android_Mali_T7xx
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95EA00] Android_Mali_T8xx
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56300] Android_Mali_G71
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95C600] Android_Mali_G72
+[2021.03.07-01.41.42:014][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC55500] Android_Mali_G72_Vulkan
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95D100] Android_Mali_G76
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC56000] Android_Mali_G76_Vulkan
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B95D700] Android_Mali_G77
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5CC54F00] Android_Mali_G77_Vulkan
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DD800] Android_Vulkan_SM5
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F4500] Android_PowerVR_G6xxx
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DF000] Android_PowerVR_GT7xxx
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F6A00] Android_PowerVR_GE8xxx
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DC400] Android_PowerVR_GM9xxx
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F4800] Android_PowerVR_GM9xxx_Vulkan
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DE800] Android_TegraK1
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F4B00] Android_Unknown_Vulkan
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DF100] Lumin
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8F6700] Lumin_Desktop
+[2021.03.07-01.41.42:015][946]LogDeviceProfile: Device profile begin destroy: [000001CB5B8DD600] HoloLens
+[2021.03.07-01.41.42:974][946]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.42:980][946]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.42:986][946]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.42:994][946]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.43:006][946]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.43:013][946]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.43:020][946]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.43:026][946]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.43:035][946]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.43:615][946]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.07-01.41.44:058][946]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-01.41.44:058][946]LogExit: Editor shut down
+[2021.03.07-01.41.44:068][946]LogExit: Transaction tracking system shut down
+[2021.03.07-01.41.52:603][946]LogExit: Object subsystem successfully closed.
+[2021.03.07-01.41.53:857][946]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.03.07-01.41.58:581][946]LogModuleManager: Shutting down and abandoning module SequencerWidgets (832)
+[2021.03.07-01.41.58:581][946]LogModuleManager: Shutting down and abandoning module NewLevelDialog (830)
+[2021.03.07-01.41.58:581][946]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (828)
+[2021.03.07-01.41.58:581][946]LogModuleManager: Shutting down and abandoning module BlueprintGraph (826)
+[2021.03.07-01.41.58:609][946]LogModuleManager: Shutting down and abandoning module PinnedCommandList (824)
+[2021.03.07-01.41.58:609][946]LogModuleManager: Shutting down and abandoning module SkeletonEditor (822)
+[2021.03.07-01.41.58:609][946]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (820)
+[2021.03.07-01.41.58:695][946]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (818)
+[2021.03.07-01.41.58:695][946]LogModuleManager: Shutting down and abandoning module Voice (816)
+[2021.03.07-01.41.58:812][946]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (814)
+[2021.03.07-01.41.58:812][946]LogModuleManager: Shutting down and abandoning module SceneOutliner (812)
+[2021.03.07-01.41.58:812][946]LogModuleManager: Shutting down and abandoning module AddContentDialog (810)
+[2021.03.07-01.41.58:913][946]LogModuleManager: Shutting down and abandoning module WidgetCarousel (809)
+[2021.03.07-01.41.58:913][946]LogModuleManager: Shutting down and abandoning module EditorWidgets (806)
+[2021.03.07-01.41.58:913][946]LogModuleManager: Shutting down and abandoning module StatsViewer (804)
+[2021.03.07-01.41.58:955][946]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (802)
+[2021.03.07-01.41.59:070][946]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (800)
+[2021.03.07-01.41.59:091][946]LogModuleManager: Shutting down and abandoning module AutomationWorker (798)
+[2021.03.07-01.41.59:106][946]LogModuleManager: Shutting down and abandoning module SteamVREditor (796)
+[2021.03.07-01.41.59:106][946]LogModuleManager: Shutting down and abandoning module OculusMR (794)
+[2021.03.07-01.41.59:106][946]LogModuleManager: Shutting down and abandoning module GooglePADEditor (792)
+[2021.03.07-01.41.59:106][946]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (790)
+[2021.03.07-01.41.59:106][946]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (788)
+[2021.03.07-01.41.59:106][946]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2021.03.07-01.41.59:280][946]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (784)
+[2021.03.07-01.41.59:494][946]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (782)
+[2021.03.07-01.41.59:494][946]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (780)
+[2021.03.07-01.41.59:494][946]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (778)
+[2021.03.07-01.41.59:494][946]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (776)
+[2021.03.07-01.41.59:494][946]LogModuleManager: Shutting down and abandoning module WebMMedia (774)
