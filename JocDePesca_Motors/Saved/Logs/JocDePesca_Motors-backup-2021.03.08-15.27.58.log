@@ -1,0 +1,1069 @@
+﻿Log file open, 03/08/21 16:23:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: JocDePesca_Motors
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.309662
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=LadyMarina_ -epicuserid=601075cf96a34eb5b6390ea0b6b9cba1 -epiclocale=es
+LogInit: Base Directory: E:/Archivos de programa x64/Unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+[2021.03.08-15.23.40:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.08-15.23.40:439][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.08-15.23.40:441][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.08-15.23.40:441][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.08-15.23.40:441][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.08-15.23.40:441][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.08-15.23.40:441][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.08-15.23.40:441][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.08-15.23.40:441][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+[2021.03.08-15.23.40:441][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+[2021.03.08-15.23.40:479][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.08-15.23.40:479][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.08-15.23.40:480][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:480][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.08-15.23.40:481][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.08-15.23.40:481][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.08-15.23.40:481][  0]LogHAL: Display: Platform has ~ 16 GB [17056964608 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.08-15.23.40:481][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.08-15.23.40:481][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.08-15.23.40:481][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.08-15.23.40:482][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Scalability.ini]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.08-15.23.40:483][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Config/Windows/Engine.ini]
+[2021.03.08-15.23.40:484][  0]LogInit: Computer: DESKTOP-14SCTUN
+[2021.03.08-15.23.40:484][  0]LogInit: User: Marina
+[2021.03.08-15.23.40:484][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.08-15.23.40:484][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.08-15.23.40:484][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.08-15.23.40:484][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.08-15.23.40:484][  0]LogMemory: Process Physical Memory: 137.06 MB used, 137.06 MB peak
+[2021.03.08-15.23.40:484][  0]LogMemory: Process Virtual Memory: 119.66 MB used, 119.66 MB peak
+[2021.03.08-15.23.40:484][  0]LogMemory: Physical Memory: 7976.93 MB used,  8289.86 MB free, 16266.79 MB total
+[2021.03.08-15.23.40:484][  0]LogMemory: Virtual Memory: 134204208.00 MB used,  13523.80 MB free, 134217728.00 MB total
+[2021.03.08-15.23.40:490][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.08-15.23.40:570][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.08-15.23.40:572][  0]LogInit: Using OS detected language (es-ES).
+[2021.03.08-15.23.40:572][  0]LogInit: Using OS detected locale (es-ES).
+[2021.03.08-15.23.40:586][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.03.08-15.23.40:635][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.08-15.23.40:652][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.08-15.23.40:746][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.08-15.23.40:746][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.08-15.23.41:160][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.03.08-15.23.41:161][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.08-15.23.41:161][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.08-15.23.41:161][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.08-15.23.41:268][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.03.08-15.23.41:268][  0]LogD3D11RHI:       8081/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.08-15.23.41:279][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.03.08-15.23.41:279][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.03.08-15.23.41:282][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.08-15.23.41:283][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.08-15.23.41:283][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.08-15.23.41:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.08-15.23.41:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.08-15.23.41:292][  0]LogWindows: EnumDisplayDevices:
+[2021.03.08-15.23.41:293][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2021.03.08-15.23.41:293][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.08-15.23.41:293][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.08-15.23.41:294][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.03.08-15.23.41:294][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.08-15.23.41:294][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.08-15.23.41:295][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.08-15.23.41:295][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.03.08-15.23.41:295][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.03.08-15.23.41:295][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.08-15.23.41:295][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.08-15.23.41:295][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2021.03.08-15.23.41:377][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.08-15.23.41:377][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.08-15.23.41:377][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.08-15.23.41:404][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.08-15.23.41:406][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.08-15.23.41:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.08-15.23.41:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.08-15.23.41:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.08-15.23.41:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.08-15.23.41:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.08-15.23.41:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.08-15.23.41:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.08-15.23.41:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.08-15.23.41:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.08-15.23.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.08-15.23.41:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.08-15.23.42:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.08-15.23.42:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.08-15.23.42:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.08-15.23.42:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.08-15.23.42:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.08-15.23.42:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.08-15.23.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.08-15.23.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.08-15.23.42:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.08-15.23.42:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.08-15.23.42:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.08-15.23.42:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.08-15.23.42:137][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.08-15.23.42:152][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.08-15.23.42:271][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.08-15.23.42:271][  0]LogShaderCompilers: Guid format shader working directory is -56 characters bigger than the processId version (../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Intermediate/Shaders/WorkingDirectory/6588/).
+[2021.03.08-15.23.42:271][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marina/AppData/Local/Temp/UnrealShaderWorkingDir/031F00214C98B90C6EBD0E8C30EC1F46/'.
+[2021.03.08-15.23.42:271][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.08-15.23.42:272][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.08-15.23.43:356][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.08-15.23.43:423][  0]LogDerivedDataCache: Loaded boot cache 0.07s 81MB C:/Users/Marina/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.08-15.23.43:423][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marina/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.08-15.23.43:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.08-15.23.43:423][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.08-15.23.43:424][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.08-15.23.43:424][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.08-15.23.43:441][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.08-15.23.43:442][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.08-15.23.43:442][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.08-15.23.43:515][  0]LogDerivedDataCache: Speed tests for C:/Users/Marina/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2021.03.08-15.23.43:515][  0]LogDerivedDataCache: Display: Performance to C:/Users/Marina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=1007.46MBs, RandomWriteSpeed=13.04MBs. Assigned SpeedClass 'Local'
+[2021.03.08-15.23.43:516][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.08-15.23.43:516][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.08-15.23.43:516][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.08-15.23.43:588][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.08-15.23.43:589][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.08-15.23.43:624][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.03.08-15.23.43:970][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.08-15.23.43:970][  0]LogInit: Active device profile: [000002AC85821F00][000002AC8473ED00 49] Windows
+[2021.03.08-15.23.43:970][  0]LogInit: Profiles: [000002AC85821F00][000002AC8473ED00 49] Windows, [000002AC857B2400][000002AC84746E80 49] WindowsNoEditor, [000002AC85821000][000002AC8474B000 49] WindowsServer, [000002AC857B3200][000002AC8474F180 49] WindowsClient, [000002AC85820200][000002AC84753300 49] IOS, [000002AC857B3D00][000002AC84757480 49] iPadAir, [000002AC85822800][000002AC8475B600 49] iPadAir2, [000002AC8575AA00][000002AC8475F840 49] IPadPro, [000002AC8575AB00][000002AC84743880 49] iPadAir3, [000002AC857B2C00][000002AC847639C0 49] iPadAir4, [000002AC8575A500][000002AC8476BB40 49] iPadMini2, [000002AC857B0300][000002AC8476FCC0 49] iPadMini3, [000002AC85758C00][000002AC84772180 49] iPadMini4, [000002AC857B3400][000002AC84776300 49] iPadMini5, [000002AC8578E300][000002AC8477E5C0 49] iPhone6, [000002AC8578E400][000002AC8477A600 49] iPodTouch6, [000002AC85759900][000002AC847868C0 49] iPhone7, [000002AC85759800][000002AC84782900 49] iPodTouch7, [000002AC8578FC00][000002AC8478AA80 49] iPhone5S, [000002AC8575B900][000002AC8478EC00 49] iPhone6Plus, [000002AC8578CE00][000002AC84792D80 49] iPhone6S, [000002AC8575AF00][000002AC84796F00 49] iPhone6SPlus, [000002AC8578F500][000002AC8479B080 49] iPhone7Plus, [000002AC8575B100][000002AC8479F200 49] iPhoneSE, [000002AC8578F300][000002AC847A3380 49] iPhone8, [000002AC85758300][000002AC847A7500 49] iPhone8Plus, [000002AC8578FF00][000002AC847AB680 49] iPhoneX, [000002AC8575BD00][000002AC847677C0 49] iPhoneXS, [000002AC8578C600][000002AC847AF900 49] iPhoneXSMax, [000002AC8575BF00][000002AC847B3A40 49] iPhoneXR, [000002AC8578E900][000002AC847B7B80 49] iPhone11, [000002AC85759400][000002AC847BFD00 49] iPhone11Pro, [000002AC8578D400][000002AC847C21C0 49] iPhone11ProMax, [000002AC85758700][000002AC847C6340 49] iPhoneSE2, [000002AC8578D900][000002AC847CA4C0 49] iPhone12Mini, [000002AC85758B00][000002AC847CE640 49] iPhone12, [000002AC8578C500][000002AC847D27C0 49] iPhone12Pro, [000002AC8575BB00][000002AC847D6940 49] iPhone12ProMax, [000002AC8578F900][000002AC847DAAC0 49] iPadPro105, [000002AC85758D00][000002AC847E6C40 49] iPadPro129, [000002AC8578F700][000002AC847EADC0 49] iPadPro97, [000002AC8575B700][000002AC847EEF40 49] iPadPro2_129, [000002AC8578E700][000002AC847F30C0 49] iPad5, [000002AC8575B500][000002AC847F7240 49] iPad6, [000002AC85820500][000002AC847FB3C0 49] iPad7, [000002AC8575B400][000002AC847FF540 49] iPad8, [000002AC85822F00][000002AC848036C0 49] iPadPro11, [000002AC85759300][000002AC847BB800 49] iPadPro2_11, [000002AC85822B00][000002AC84807940 49] iPadPro3_129, [000002AC85759700][000002AC8480BA80 49] iPadPro4_129, [000002AC85821E00][000002AC85079BC0 49] AppleTV, [000002AC85758500][000002AC85081D40 49] AppleTV4K, [000002AC85823300][000002AC85084200 49] TVOS, [000002AC8575A100][000002AC85088380 49] Mac, [000002AC85822600][000002AC850B8500 49] MacClient, [000002AC85759F00][000002AC850BC680 49] MacNoEditor, [000002AC85821300][000002AC850C0800 49] MacServer, [000002AC85758400][000002AC850C4980 49] Linux, [000002AC85820E00][000002AC850C8B00 49] LinuxNoEditor, [000002AC8575A200][000002AC850CCC80 49] LinuxAArch64NoEditor, [000002AC85821600][000002AC850D0E00 49] LinuxClient, [000002AC8575BE00][000002AC850D4F80 49] LinuxAArch64Client, [000002AC85820B00][000002AC850D9100 49] LinuxServer, [000002AC85759200][000002AC850DD280 49] LinuxAArch64Server, [000002AC85821900][000002AC850E1400 49] Android, [000002AC8575B000][000002AC850E5580 49] Android_Low, [000002AC85820800][000002AC850E9700 49] Android_Mid, [000002AC8575AC00][000002AC850ED880 49] Android_High, [000002AC85820400][000002AC8507D9C0 49] Android_Default, [000002AC85758100][000002AC850F1B00 49] Android_Adreno4xx, [000002AC85820C00][000002AC850F5C40 49] Android_Adreno5xx_Low, [000002AC85759000][000002AC850FC100 49] Android_Adreno5xx, [000002AC85820A00][000002AC85100280 49] Android_Adreno6xx, [000002AC8575B300][000002AC85104400 49] Android_Adreno6xx_Vulkan, [000002AC85821D00][000002AC85108580 49] Android_Mali_T6xx, [000002AC8575BC00][000002AC8510C700 49] Android_Mali_T7xx, [000002AC85822A00][000002AC85110880 49] Android_Mali_T8xx, [000002AC8575A300][000002AC85114A00 49] Android_Mali_G71, [000002AC85820600][000002AC85118B80 49] Android_Mali_G72, [000002AC85759500][000002AC8511CD00 49] Android_Mali_G72_Vulkan, [000002AC85821100][000002AC85120E80 49] Android_Mali_G76, [000002AC8575A000][000002AC85125000 49] Android_Mali_G76_Vulkan, [000002AC85821700][000002AC85129180 49] Android_Mali_G77, [000002AC85758F00][000002AC8512D300 49] Android_Mali_G77_Vulkan, [000002AC8578D800][000002AC85131480 49] Android_Vulkan_SM5, [000002AC857B0500][000002AC85135600 49] Android_PowerVR_G6xxx, [000002AC8578F000][000002AC85139780 49] Android_PowerVR_GT7xxx, [000002AC857B2A00][000002AC8513D900 49] Android_PowerVR_GE8xxx, [000002AC8578C400][000002AC850F9A40 49] Android_PowerVR_GM9xxx, [000002AC857B0800][000002AC85141B80 49] Android_PowerVR_GM9xxx_Vulkan, [000002AC8578E800][000002AC85145CC0 49] Android_TegraK1, [000002AC857B0B00][000002AC8514C180 49] Android_Unknown_Vulkan, [000002AC8578F100][000002AC85150300 49] Lumin, [000002AC857B2700][000002AC85154480 49] Lumin_Desktop, [000002AC8578D600][000002AC85158600 49] HoloLens, 
+[2021.03.08-15.23.44:127][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.08-15.23.44:127][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.08-15.23.44:127][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.08-15.23.44:127][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.08-15.23.44:127][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.08-15.23.44:187][  0]LogNetVersion: JocDePesca_Motors 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 258874762)
+[2021.03.08-15.23.44:861][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.08-15.23.44:955][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.094455 seconds
+[2021.03.08-15.23.44:963][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.08-15.23.44:964][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.08-15.23.44:964][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.08-15.23.45:539][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.08-15.23.45:545][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.08-15.23.46:052][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.08-15.23.46:052][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.08-15.23.46:057][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.08-15.23.46:062][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.08-15.23.46:075][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.08-15.23.46:084][  0]LogUProjectInfo: Found projects:
+[2021.03.08-15.23.46:121][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.08-15.23.46:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.08-15.23.46:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.08-15.23.46:238][  0]LogCollectionManager: Loaded 0 collections in 0.000916 seconds
+[2021.03.08-15.23.46:277][  0]LogFileCache: Scanning file cache for directory 'E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Saved/Collections/' took 0.00s
+[2021.03.08-15.23.46:277][  0]LogFileCache: Scanning file cache for directory 'E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/Developers/Marina/Collections/' took 0.00s
+[2021.03.08-15.23.46:277][  0]LogFileCache: Scanning file cache for directory 'E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/Collections/' took 0.00s
+[2021.03.08-15.23.46:277][  0]LogOcInput: OculusInput pre-init called
+[2021.03.08-15.23.46:615][  0]LogEngine: Initializing Engine...
+[2021.03.08-15.23.46:679][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.03.08-15.23.46:680][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.08-15.23.46:682][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.03.08-15.23.46:847][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.08-15.23.46:862][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.08-15.23.46:878][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.08-15.23.46:887][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.08-15.23.46:887][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.08-15.23.46:887][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.08-15.23.46:887][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.08-15.23.46:887][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.08-15.23.46:919][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.08-15.23.46:919][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.08-15.23.46:962][  0]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2021.03.08-15.23.46:966][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.08-15.23.46:971][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.08-15.23.46:971][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.08-15.23.46:972][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.08-15.23.46:972][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.08-15.23.46:972][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.08-15.23.46:974][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.08-15.23.46:974][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.08-15.23.46:974][  0]LogInit: FAudioDevice initialized.
+[2021.03.08-15.23.46:974][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.08-15.23.46:974][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.08-15.23.47:040][  0]LogDerivedDataCache: Saved boot cache 0.07s 81MB C:/Users/Marina/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.08-15.23.47:047][  0]LogInit: Texture streaming: Enabled
+[2021.03.08-15.23.47:065][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.08-15.23.47:071][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.08-15.23.47:071][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.08-15.23.47:074][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.08-15.23.47:132][  0]LogInit: Transaction tracking system initialized
+[2021.03.08-15.23.47:169][  0]BlueprintLog: New page: Cargar el editor
+[2021.03.08-15.23.47:282][  0]LocalizationService: Localization service is disabled
+[2021.03.08-15.23.47:319][  0]TimingProfiler: Initialize
+[2021.03.08-15.23.47:319][  0]TimingProfiler: OnSessionChanged
+[2021.03.08-15.23.47:319][  0]LoadingProfiler: Initialize
+[2021.03.08-15.23.47:319][  0]LoadingProfiler: OnSessionChanged
+[2021.03.08-15.23.47:319][  0]NetworkingProfiler: Initialize
+[2021.03.08-15.23.47:319][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.08-15.23.47:319][  0]MemoryProfiler: Initialize
+[2021.03.08-15.23.47:319][  0]MemoryProfiler: OnSessionChanged
+[2021.03.08-15.23.47:574][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.08-15.23.47:575][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.08-15.23.47:790][  0]LogFileCache: Scanning file cache for directory 'E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/' took 0.01s
+[2021.03.08-15.23.48:084][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.08-15.23.48:090][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.08-15.23.48:224][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.23.48:251][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.08-15.23.57:426][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.24.04:947][  0]LogSlate: Window 'Recuperar los paquetes' being destroyed
+[2021.03.08-15.24.04:948][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.08-15.24.04:953][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.08-15.24.04:961][  0]LogUnrealEdMisc: Loading editor; pre map load, took 27.846
+[2021.03.08-15.24.04:963][  0]LightingResults: New page: Diseñar la iluminación
+[2021.03.08-15.24.04:965][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.08-15.24.04:965][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.08-15.24.04:965][  0]MapCheck: New page: Revisión del mapa
+[2021.03.08-15.24.04:966][  0]LightingResults: New page: Diseñar la iluminación
+[2021.03.08-15.24.04:977][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.03.08-15.24.05:491][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.03.08-15.24.05:493][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.08-15.24.05:507][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.08-15.24.05:529][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.03.08-15.24.05:530][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.08-15.24.05:531][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,65ms to complete.
+[2021.03.08-15.24.05:531][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.570
+[2021.03.08-15.24.05:535][  0]LogUnrealEdMisc: Total Editor Startup Time, took 28.421
+[2021.03.08-15.24.05:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.08-15.24.05:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.08-15.24.05:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.08-15.24.05:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.08-15.24.05:712][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0164 seconds. Added 3601 classes and 859 folders.
+[2021.03.08-15.24.05:715][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.08-15.24.05:718][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.08-15.24.05:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.08-15.24.05:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.08-15.24.05:720][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.08-15.24.05:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.08-15.24.05:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.08-15.24.05:721][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.08-15.24.05:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.08-15.24.05:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.03.08-15.24.05:723][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.08-15.24.05:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.08-15.24.05:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.08-15.24.05:724][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.08-15.24.05:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.08-15.24.05:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.08-15.24.05:725][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.08-15.24.05:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.08-15.24.05:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.03.08-15.24.05:727][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.08-15.24.05:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.08-15.24.05:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.08-15.24.05:728][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.08-15.24.05:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.08-15.24.05:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.03.08-15.24.05:730][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.08-15.24.05:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.08-15.24.05:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.08-15.24.05:732][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.08-15.24.05:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.08-15.24.05:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.03.08-15.24.05:733][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.08-15.24.05:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.08-15.24.05:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.03.08-15.24.05:734][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.08-15.24.05:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.08-15.24.05:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.03.08-15.24.05:736][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.08-15.24.05:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.08-15.24.05:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.03.08-15.24.05:737][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.08-15.24.05:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.08-15.24.05:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.03.08-15.24.05:738][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.08-15.24.05:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.08-15.24.05:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.03.08-15.24.05:740][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.08-15.24.05:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.08-15.24.05:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.03.08-15.24.05:741][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.08-15.24.05:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.08-15.24.05:741][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.03.08-15.24.05:742][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.08-15.24.05:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.08-15.24.05:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.03.08-15.24.05:743][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.08-15.24.05:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.08-15.24.05:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.03.08-15.24.05:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.08-15.24.05:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.08-15.24.05:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.03.08-15.24.05:746][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.08-15.24.05:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.08-15.24.05:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.03.08-15.24.05:748][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.08-15.24.05:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.08-15.24.05:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.03.08-15.24.05:749][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.08-15.24.05:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.08-15.24.05:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.03.08-15.24.05:750][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.08-15.24.05:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.08-15.24.05:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.03.08-15.24.05:751][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.08-15.24.05:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.08-15.24.05:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.03.08-15.24.05:752][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.08-15.24.05:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.08-15.24.05:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.08-15.24.05:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.03.08-15.24.05:846][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.08-15.24.05:848][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.03.08-15.24.05:950][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.24.05:971][  0]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.08-15.24.05:977][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.08-15.24.06:164][  0]LogRenderer: Reallocating scene render targets to support 1168x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.08-15.24.06:355][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.08-15.24.06:355][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.03.08-15.24.06:355][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.03.08-15.24.06:355][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.03.08-15.24.06:356][  0]LogLoad: (Engine Initialization) Total time: 29.24 seconds
+[2021.03.08-15.24.06:356][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.08-15.24.06:356][  0]LogInit: First time updating LLM stats...
+[2021.03.08-15.24.06:417][  0]LogAssetRegistry: Asset discovery search completed in 22.7937 seconds
+[2021.03.08-15.24.06:419][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.08-15.24.06:419][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.08-15.24.06:440][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/UNI 20-21/Trimestre 2/MOTOR DE JOCS/Practicas/P02-UnReal/P02-Motors/JocDePesca_Motors/Content/' took 0.06s
+[2021.03.08-15.24.06:597][  3]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.08-15.24.07:393][ 51]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.24.07:400][ 51]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.08-15.24.39:737][974]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.24.39:761][974]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/PauseMenu.PauseMenu
+[2021.03.08-15.24.39:868][974]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.03.08-15.24.41:548][974]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.08-15.24.52:095][589]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.08-15.26.55:530][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.26.55:546][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.08-15.26.55:570][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.27.15:496][322]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.27.15:982][349]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.03.08-15.27.20:296][602]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.27.23:860][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.03.08-15.27.23:864][812]LogPlayLevel: Launcher Device ID: WindowsNoEditor@DESKTOP-14SCTUN
+[2021.03.08-15.27.23:869][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.08-15.27.23:869][812]LogCook: Display: Creating asset registry
+[2021.03.08-15.27.23:872][812]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-15.27.23:928][812]LogCook: Display: Discovering localized assets for cultures: en
+[2021.03.08-15.27.23:977][812]LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.03.08-15.27.24:016][812]LogCook: Display: Sandbox cleanup took 0.080 seconds for platforms WindowsNoEditor
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2852
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2851
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2850
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2849
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2848
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2847
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2846
+[2021.03.08-15.27.28:273][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2845
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2844
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2843
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2842
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2841
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2840
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2839
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2838
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2837
+[2021.03.08-15.27.28:835][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2836
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2835
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2834
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2833
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2832
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2831
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2830
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2829
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2828
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2827
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2826
+[2021.03.08-15.27.29:395][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2825
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2824
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2823
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2822
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2821
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2820
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2819
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2818
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2817
+[2021.03.08-15.27.29:953][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2816
+[2021.03.08-15.27.30:530][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2815
+[2021.03.08-15.27.30:530][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2814
+[2021.03.08-15.27.30:533][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2813
+[2021.03.08-15.27.31:099][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2812
+[2021.03.08-15.27.31:099][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2811
+[2021.03.08-15.27.31:099][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2810
+[2021.03.08-15.27.31:099][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2809
+[2021.03.08-15.27.31:099][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2808
+[2021.03.08-15.27.31:099][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2807
+[2021.03.08-15.27.31:099][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2806
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2805
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2804
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2803
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2802
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2801
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2800
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2799
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2798
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2797
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2796
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2795
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2794
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2793
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2792
+[2021.03.08-15.27.31:659][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2791
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2790
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2789
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2788
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2787
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2786
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2785
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2784
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2783
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2782
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2781
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2780
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2779
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2778
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2777
+[2021.03.08-15.27.32:218][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2776
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2775
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2774
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2773
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2772
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2771
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2770
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2769
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2768
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2767
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2766
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2765
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2764
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2763
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2762
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2761
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2760
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2759
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2758
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2757
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2756
+[2021.03.08-15.27.32:777][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2755
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2754
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2753
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2752
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2751
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2750
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2749
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2748
+[2021.03.08-15.27.33:336][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2747
+[2021.03.08-15.27.33:894][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2746
+[2021.03.08-15.27.33:894][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2745
+[2021.03.08-15.27.33:894][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2744
+[2021.03.08-15.27.33:894][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2743
+[2021.03.08-15.27.33:894][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2742
+[2021.03.08-15.27.33:894][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2741
+[2021.03.08-15.27.34:453][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2740
+[2021.03.08-15.27.34:453][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2739
+[2021.03.08-15.27.34:453][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2738
+[2021.03.08-15.27.34:453][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2737
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2736
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2735
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2734
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2733
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2732
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2731
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2730
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2729
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2728
+[2021.03.08-15.27.35:013][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2727
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2726
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2725
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2724
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2723
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2722
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2721
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2720
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2719
+[2021.03.08-15.27.35:571][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2718
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2717
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2716
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2715
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2714
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2713
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2712
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2711
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2710
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2709
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2708
+[2021.03.08-15.27.36:131][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2707
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2706
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2705
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2704
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2703
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2702
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2701
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2700
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2699
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2698
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2697
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2696
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2695
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2694
+[2021.03.08-15.27.36:689][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2693
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2692
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2691
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2690
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2689
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2688
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2687
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2686
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2685
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2684
+[2021.03.08-15.27.37:248][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2683
+[2021.03.08-15.27.37:808][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2682
+[2021.03.08-15.27.38:367][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2681
+[2021.03.08-15.27.38:367][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2680
+[2021.03.08-15.27.38:367][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2679
+[2021.03.08-15.27.38:367][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2678
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2677
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2676
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2675
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2674
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2673
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2672
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2671
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2670
+[2021.03.08-15.27.38:927][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2669
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2668
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2667
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2666
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2665
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2664
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2663
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2662
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2661
+[2021.03.08-15.27.39:486][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2660
+[2021.03.08-15.27.40:045][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2659
+[2021.03.08-15.27.40:045][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2658
+[2021.03.08-15.27.40:045][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2657
+[2021.03.08-15.27.40:045][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2656
+[2021.03.08-15.27.40:604][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2655
+[2021.03.08-15.27.41:163][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2654
+[2021.03.08-15.27.41:163][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2653
+[2021.03.08-15.27.41:722][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2652
+[2021.03.08-15.27.41:722][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2651
+[2021.03.08-15.27.41:722][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2650
+[2021.03.08-15.27.42:281][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2649
+[2021.03.08-15.27.42:840][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2648
+[2021.03.08-15.27.42:840][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2647
+[2021.03.08-15.27.42:840][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2646
+[2021.03.08-15.27.43:400][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2645
+[2021.03.08-15.27.43:958][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2644
+[2021.03.08-15.27.43:958][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2643
+[2021.03.08-15.27.43:958][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2642
+[2021.03.08-15.27.44:516][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2641
+[2021.03.08-15.27.44:516][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2640
+[2021.03.08-15.27.45:075][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2639
+[2021.03.08-15.27.45:075][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2638
+[2021.03.08-15.27.45:634][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2637
+[2021.03.08-15.27.46:192][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2636
+[2021.03.08-15.27.46:192][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2635
+[2021.03.08-15.27.46:192][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2634
+[2021.03.08-15.27.46:752][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2633
+[2021.03.08-15.27.47:311][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2632
+[2021.03.08-15.27.47:869][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2631
+[2021.03.08-15.27.47:869][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2630
+[2021.03.08-15.27.48:428][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2629
+[2021.03.08-15.27.48:986][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2628
+[2021.03.08-15.27.48:986][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2627
+[2021.03.08-15.27.49:544][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2626
+[2021.03.08-15.27.49:544][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2625
+[2021.03.08-15.27.50:103][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2624
+[2021.03.08-15.27.50:103][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2623
+[2021.03.08-15.27.50:661][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2622
+[2021.03.08-15.27.50:661][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2621
+[2021.03.08-15.27.51:780][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2620
+[2021.03.08-15.27.51:780][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2619
+[2021.03.08-15.27.52:339][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2618
+[2021.03.08-15.27.52:339][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2617
+[2021.03.08-15.27.52:898][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2616
+[2021.03.08-15.27.53:458][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2615
+[2021.03.08-15.27.54:016][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2614
+[2021.03.08-15.27.54:016][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2613
+[2021.03.08-15.27.55:134][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2612
+[2021.03.08-15.27.55:134][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2611
+[2021.03.08-15.27.55:694][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2610
+[2021.03.08-15.27.55:694][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2609
+[2021.03.08-15.27.56:812][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2608
+[2021.03.08-15.27.56:812][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2607
+[2021.03.08-15.27.57:370][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2606
+[2021.03.08-15.27.57:929][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2605
+[2021.03.08-15.27.58:488][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2604
+[2021.03.08-15.27.58:488][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2603
