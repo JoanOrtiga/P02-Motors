@@ -877,3 +877,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.08-11.13.30:288][193]LogSlate: Took 0.007690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.03.08-11.13.35:376][508]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
 [2021.03.08-11.13.35:629][524]LogSlate: Window 'fishingUI' being destroyed
+[2021.03.08-11.23.13:875][234]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-11.23.22:951][261]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.08-11.23.23:027][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.03.08-11.23.23:029][261]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.053
+[2021.03.08-11.23.23:029][261]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FishingAssets/UI/fishingUI] ([1] browsable assets)...
+[2021.03.08-11.23.23:029][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/FishingAssets/UI/fishingUI]
+[2021.03.08-11.23.23:103][261]LogSavePackage: Moving 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/fishingUI_Auto198288FEA43FD5CB935D0558A30F49957.tmp' to 'F:/GAMEDEV_PROJECTS/Unreal/P02-Motors/JocDePesca_Motors/Saved/Autosaves/Game/FishingAssets/UI/fishingUI_Auto1.uasset'
+[2021.03.08-11.23.23:103][261]LogFileHelpers: Auto-saving content packages took 0.075
+[2021.03.08-11.59.53:413][334]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{236b017e-2c97-417a-811c-ceb9575c0d05}.
+[2021.03.08-11.59.53:413][334]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.08-11.59.53:480][334]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.08-11.59.53:480][334]LogAudioMixer: Display: 1: FrontRight
+[2021.03.08-14.15.26:224][481]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{caa442e8-8a7f-4e92-8788-b08ce6409401}.
+[2021.03.08-14.15.26:224][481]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 1: FrontRight
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 4: BackLeft
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 5: BackRight
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 6: SideLeft
+[2021.03.08-14.15.26:316][481]LogAudioMixer: Display: 7: SideRight
+[2021.03.08-14.15.27:903][482]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 1: FrontRight
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 4: BackLeft
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 5: BackRight
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 6: SideLeft
+[2021.03.08-14.15.27:941][482]LogAudioMixer: Display: 7: SideRight
